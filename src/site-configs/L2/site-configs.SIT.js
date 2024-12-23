@@ -10,5 +10,6 @@ window.envConfig = {
     subDirectory: "sit",
     SGConnectSubDomain: "l2-connect-sit",
     defaultLanguage: "en",
-    storagePrefixKey: "spaceflight",
+    storagePrefixKey: "christmas-crash",
+    clientSubDomain: "l2uatclient",
 };

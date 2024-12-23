@@ -9,5 +9,6 @@ window.envConfig = {
     enableMsgpackParserOnNotification: true,
     subDirectory: "uat",
     SGConnectSubDomain: "l2-connect-uat",
-    storagePrefixKey: "spaceflight",
+    storagePrefixKey: "christmas-crash",
+    clientSubDomain: "l2uatclient",
 };

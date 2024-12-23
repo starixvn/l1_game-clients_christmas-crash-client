@@ -8,5 +8,6 @@ window.envConfig = {
     enableMsgpackParserAllGames: true,
     enableMsgpackParserOnNotification: true,
     SGConnectSubDomain: "connect",
-    storagePrefixKey: "spaceflight",
+    storagePrefixKey: "christmas-crash",
+    clientSubDomain: "client",
 };
