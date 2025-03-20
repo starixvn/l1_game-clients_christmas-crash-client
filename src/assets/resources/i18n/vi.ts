@@ -4,6 +4,7 @@ export const languages = {
         "Loss": "Thua",
         "back": "Quay Lại",
         "betChoice2": "Đặt",
+        "betChoice_shorten": "Đặt",
         "bet_amount_of_any_choice_incorrect": "Tiền cược của một trong các cửa không hợp lệ.",
         "bet_choice": "Lựa Chọn",
         "bet_choice_away": "Đội Khách",
@@ -26,6 +27,7 @@ export const languages = {
         "details": "Chi tiết",
         "enter_your_name": "Nhập tên nhân vật",
         "even_win": "CHẴN THẮNG",
+        "from": "Từ",
         "game_category_ph_1": "Tất Cả",
         "game_category_ph_2": "Pinoy Games",
         "game_category_ph_3": "Slot Games",
@@ -39,8 +41,10 @@ export const languages = {
         "invalid_bet": "Cược không hợp lệ",
         "invalid_deal_hands": "Số lượng tay bài không hợp lệ.",
         "invalid_position": "Vị trí tay bài không đúng",
+        "invalid_stake_level": "Mức cược không hợp lệ.",
         "join_game": "Vào Bàn",
         "join_next_round": "Bạn vui lòng chờ hết ván nhé.",
+        "maintenance_time": "Thời Gian Bảo Trì",
         "max_stake_hand": "Tổng tiền cược tối đa của tay bài này là %{maxBet}",
         "md5_copy": "COPY",
         "md5_key": "CHUỖI MD5",
@@ -53,6 +57,7 @@ export const languages = {
         "message_account_notexist_place_bet": "Game %{gameName} (#%{gameRoundId})\n\nĐã xảy ra lỗi. Vui lòng liên hệ bộ phận CSKH để biết chi tiết, cảm ơn bạn. Đặt cược thất bại! (%{errorCode})",
         "message_account_signout": "Tài khoản bị đăng xuất do có người khác đăng nhập vào tài khoản này.",
         "message_account_suspended": "Game %{gameName} (#%{gameRoundId})\n\nTài khoản đã bị treo. Vui lòng liên hệ với cấp trên để biết chi tiết, cảm ơn bạn. Đặt cược thất bại! (%{errorCode})",
+        "message_balanced_betting_pool": "Nhà Cái Cân Cửa.",
         "message_bet_limit_change": "Hạn mức cược của bạn vừa được cập nhật.",
         "message_cannot_bet": "Không thể đặt cược vào lúc này.",
         "message_close_account": "Tài khoản đã bị đóng. Phiên đăng nhập sẽ hết hạn sau 10 giây. Vui lòng liên hệ với cấp trên để biết thêm chi tiết. (%{errorCode})",
@@ -119,7 +124,7 @@ export const languages = {
         "message_void_running_ticket": "Cược của bạn đã bị hủy vì lý do kỹ thuật. Vui lòng thử lại game.",
         "message_win_limit_hit": "Game %{gameName} (#%{gameRoundId})\n\nĐã đạt giới hạn thắng cược! Vui lòng liên hệ với cấp trên, cảm ơn bạn. Đặt cược thất bại! (%{errorCode})",
         "min_bet_hand": "Tiền cược tối thiểu của tay bài này là %{minBet}",
-        "multiplier_time": "Gấp Bội Thắng!",
+        "multiplier_time": "GẤP BỘI THẮNG!",
         "name_invalid": "Tên nhân vật không hợp lệ.",
         "nickname_requirement": "Lưu ý:\n+ Tên nhân vật phải có từ 3 đến 14 ký tự.\n+ Không gõ dấu tiếng việt, không chứa khoảng trắng và các ký tự đặc biệt.\n+ Không thể đổi tên nhân vật sau khi tạo.",
         "non_winning_payline": "Không có dòng cược thắng",
@@ -173,7 +178,10 @@ export const languages = {
         "powered_by_vgaming": "Được cung cấp bởi Vgaming",
         "promotion": "Khuyến Mãi",
         "promotion_terms_and_conditions": "Điều Khoản Khuyến Mãi",
+        "reconnect": "Kết nối",
+        "refund": "Trả Lại",
         "result": "Kết Quả",
+        "rotateDevice": "Vui lòng xoay thiết bị của bạn.",
         "round": "Phiên",
         "searching_for_players": "Đang tìm thêm người chơi...",
         "sha256": "SHA-256",
@@ -183,19 +191,19 @@ export const languages = {
         "stake": "Cược",
         "submit": "XÁC NHẬN",
         "terms_and_conditions_content": "- Tất cả người chơi đều có thể tham gia các chương trình khuyến mãi và có cơ hội giành được những giải thưởng hấp dẫn.\n- Tiền thắng được tính toán dựa theo quy định của chương trình khuyến mãi và tỷ lệ trả thưởng.\n- Chương trình khuyến mãi chỉ được áp dụng trong một khoảng thời gian nhất định do Công ty quy định. Khi chương trình khuyến mãi kết thúc, tỷ lệ trả thưởng sẽ được điều chỉnh trở về như ban đầu.\n- Trong một số tình huống, thể lệ chương trình có thể thay đổi mà không cần thông báo trước.\nTrong mọi trường hợp xảy ra tranh chấp, quyết định của Công ty sẽ là quyết định cuối cùng.",
+        "text_big_wins": "Tài Thắng!",
+        "text_small_win": "Xỉu Thắng!",
         "time": "Thời Gian",
+        "to": "Đến",
         "total": "Tổng",
         "total_stake": "Tổng Cược",
+        "total_stake_shorten": "Tổng Cược",
         "total_win": "Tổng Thắng",
         "under_maintenance_suggest": "Sau thời gian bảo trì, bạn hãy đăng nhập lại để có thể tiếp tục chơi game.",
         "under_maintenance_time": "Thời gian bảo trì từ %{startTime} đến %{endTime} (GMT+8).",
         "win": "Thắng",
         "win_loss": "Thắng Thua",
         "you_reach_max_win": "Bạn Đã Đạt Mức Tiền Thắng Tối Đa"
-    },
-    "ChristmasX": {
-        "game_icon_name": "CHRISTMAS X",
-        "game_name": "Christmas X"
     },
     "Spaceflight": {
         "Start_in ": "Bắt đầu sau",
@@ -230,6 +238,10 @@ export const languages = {
         "total_cashout_amount_reach_max": "Tổng tiền đã rút đạt mức tối đa",
         "waiting": "ĐANG CHỜ...",
         "you_reach_max_win": "Bạn Đã Đạt Mức Tiền Thắng Tối Đa"
+    },
+    "ChristmasCrash": {
+        "game_icon_name": "CHRISTMAS X",
+        "game_name": "Christmas X"
     }
 };
 
