@@ -569,10 +569,7 @@
       "__id__": 26
     },
     "spriteList": [],
-    "atlas": {
-      "__uuid__": "24cde592-abec-44b7-87d4-a55740b5ff06",
-      "__expectedType__": "cc.SpriteAtlas"
-    },
+    "atlas": null,
     "prefix": "text_copy",
     "defaultLocalized": "en",
     "_id": ""

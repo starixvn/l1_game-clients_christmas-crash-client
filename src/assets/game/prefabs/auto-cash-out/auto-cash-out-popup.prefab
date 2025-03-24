@@ -570,10 +570,7 @@
       "b": 255,
       "a": 255
     },
-    "_spriteFrame": {
-      "__uuid__": "24cde592-abec-44b7-87d4-a55740b5ff06@ae90c",
-      "__expectedType__": "cc.SpriteFrame"
-    },
+    "_spriteFrame": null,
     "_type": 0,
     "_fillType": 0,
     "_sizeMode": 2,
@@ -606,10 +603,7 @@
       "__id__": 22
     },
     "spriteList": [],
-    "atlas": {
-      "__uuid__": "24cde592-abec-44b7-87d4-a55740b5ff06",
-      "__expectedType__": "cc.SpriteAtlas"
-    },
+    "atlas": null,
     "prefix": "text_auto_cashout_popup",
     "defaultLocalized": "en",
     "_id": ""
@@ -940,10 +934,7 @@
       "b": 255,
       "a": 255
     },
-    "_spriteFrame": {
-      "__uuid__": "24cde592-abec-44b7-87d4-a55740b5ff06@11947",
-      "__expectedType__": "cc.SpriteFrame"
-    },
+    "_spriteFrame": null,
     "_type": 0,
     "_fillType": 0,
     "_sizeMode": 2,
@@ -976,10 +967,7 @@
       "__id__": 37
     },
     "spriteList": [],
-    "atlas": {
-      "__uuid__": "24cde592-abec-44b7-87d4-a55740b5ff06",
-      "__expectedType__": "cc.SpriteAtlas"
-    },
+    "atlas": null,
     "prefix": "text_multiplier",
     "defaultLocalized": "en",
     "_id": ""
@@ -6090,10 +6078,7 @@
       "b": 255,
       "a": 255
     },
-    "_spriteFrame": {
-      "__uuid__": "24cde592-abec-44b7-87d4-a55740b5ff06@f02dc",
-      "__expectedType__": "cc.SpriteFrame"
-    },
+    "_spriteFrame": null,
     "_type": 0,
     "_fillType": 0,
     "_sizeMode": 2,
@@ -6126,10 +6111,7 @@
       "__id__": 241
     },
     "spriteList": [],
-    "atlas": {
-      "__uuid__": "24cde592-abec-44b7-87d4-a55740b5ff06",
-      "__expectedType__": "cc.SpriteAtlas"
-    },
+    "atlas": null,
     "prefix": "text_clear",
     "defaultLocalized": "en",
     "_id": ""
@@ -6864,10 +6846,7 @@
       "b": 255,
       "a": 255
     },
-    "_spriteFrame": {
-      "__uuid__": "24cde592-abec-44b7-87d4-a55740b5ff06@9ab1d",
-      "__expectedType__": "cc.SpriteFrame"
-    },
+    "_spriteFrame": null,
     "_type": 0,
     "_fillType": 0,
     "_sizeMode": 2,
@@ -6900,10 +6879,7 @@
       "__id__": 277
     },
     "spriteList": [],
-    "atlas": {
-      "__uuid__": "24cde592-abec-44b7-87d4-a55740b5ff06",
-      "__expectedType__": "cc.SpriteAtlas"
-    },
+    "atlas": null,
     "prefix": "text_comfirm",
     "defaultLocalized": "en",
     "_id": ""

@@ -764,10 +764,7 @@
       "b": 255,
       "a": 255
     },
-    "_spriteFrame": {
-      "__uuid__": "24cde592-abec-44b7-87d4-a55740b5ff06@04026",
-      "__expectedType__": "cc.SpriteFrame"
-    },
+    "_spriteFrame": null,
     "_type": 0,
     "_fillType": 0,
     "_sizeMode": 0,
@@ -800,10 +797,7 @@
       "__id__": 36
     },
     "spriteList": [],
-    "atlas": {
-      "__uuid__": "24cde592-abec-44b7-87d4-a55740b5ff06",
-      "__expectedType__": "cc.SpriteAtlas"
-    },
+    "atlas": null,
     "prefix": "text_currentmultiplier",
     "defaultLocalized": "en",
     "_id": ""
@@ -961,10 +955,7 @@
       "__id__": 44
     },
     "spriteList": [],
-    "atlas": {
-      "__uuid__": "24cde592-abec-44b7-87d4-a55740b5ff06",
-      "__expectedType__": "cc.SpriteAtlas"
-    },
+    "atlas": null,
     "prefix": "crashed",
     "defaultLocalized": "en",
     "_id": ""
