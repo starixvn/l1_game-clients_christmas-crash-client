@@ -13,5 +13,5 @@ body {
 }
 
 body #Background {
-    background: url("./background.jpg?v=1") !important;
+    background-image: url("./background.jpg?v=1") !important;
 }
