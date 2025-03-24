@@ -479,13 +479,13 @@
             <key>premultiplyAlpha</key>
             <false/>
             <key>realTextureFileName</key>
-            <string>atlas-en.webp</string>
+            <string>atlas_en.webp</string>
             <key>size</key>
             <string>{512,512}</string>
             <key>smartupdate</key>
             <string>$TexturePacker:SmartUpdate:bd002d8b33b11e55cc8f767d350e5951:e7dc48a9bf22c03024eb9116a92c6a94:9f2c4ee878125bf2941a055357f45e96$</string>
             <key>textureFileName</key>
-            <string>atlas-en.webp</string>
+            <string>atlas_en.webp</string>
         </dict>
     </dict>
 </plist>

@@ -11,7 +11,7 @@
     "6c48a": {
       "importer": "texture",
       "uuid": "f9fa10c8-fa20-4cee-af91-80a8d55799c8@6c48a",
-      "displayName": "altas-id",
+      "displayName": "atlas_id",
       "id": "6c48a",
       "name": "texture",
       "userData": {
@@ -35,7 +35,7 @@
     "f9941": {
       "importer": "sprite-frame",
       "uuid": "f9fa10c8-fa20-4cee-af91-80a8d55799c8@f9941",
-      "displayName": "altas-id",
+      "displayName": "atlas_id",
       "id": "f9941",
       "name": "spriteFrame",
       "userData": {

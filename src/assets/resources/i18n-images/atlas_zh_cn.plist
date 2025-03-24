@@ -4,7 +4,7 @@
     <dict>
         <key>frames</key>
         <dict>
-            <key>bet_amount_zh_tw.png</key>
+            <key>bet_amount_zh_cn.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -15,11 +15,11 @@
                 <key>spriteSourceSize</key>
                 <string>{75,29}</string>
                 <key>textureRect</key>
-                <string>{{232,188},{75,21}}</string>
+                <string>{{44,487},{75,21}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
-            <key>btn_bet_accepted_zh_tw.png</key>
+            <key>btn_bet_accepted_zh_cn.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -34,12 +34,12 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>btn_cashout50_zh_tw.png</key>
+            <key>btn_cashout50_zh_cn.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
-                <string>{0,0}</string>
+                <string>{2,0}</string>
                 <key>spriteSize</key>
                 <string>{99,27}</string>
                 <key>spriteSourceSize</key>
@@ -49,22 +49,22 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>btn_cashout_zh_tw.png</key>
+            <key>btn_cashout_zh_cn.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
-                <string>{0,0}</string>
+                <string>{-1,0}</string>
                 <key>spriteSize</key>
                 <string>{51,28}</string>
                 <key>spriteSourceSize</key>
                 <string>{91,28}</string>
                 <key>textureRect</key>
-                <string>{{221,265},{51,28}}</string>
+                <string>{{220,286},{51,28}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>btn_text_autoplay_zh_tw.png</key>
+            <key>btn_text_autoplay_zh_cn.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -79,7 +79,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>btn_text_cancelbet_zh_tw.png</key>
+            <key>btn_text_cancelbet_zh_cn.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -94,7 +94,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>btn_text_nextround_zh_tw.png</key>
+            <key>btn_text_nextround_zh_cn.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -105,11 +105,11 @@
                 <key>spriteSourceSize</key>
                 <string>{208,38}</string>
                 <key>textureRect</key>
-                <string>{{131,264},{88,36}}</string>
+                <string>{{130,264},{88,36}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>btn_text_placebet_zh_tw.png</key>
+            <key>btn_text_placebet_zh_cn.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -124,7 +124,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>btn_text_stop_autoplay_zh_tw.png</key>
+            <key>btn_text_stop_autoplay_zh_cn.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -139,12 +139,12 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>btn_waiting_zh_tw.png</key>
+            <key>btn_waiting_zh_cn.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
-                <string>{-1,-3}</string>
+                <string>{0,-3}</string>
                 <key>spriteSize</key>
                 <string>{133,52}</string>
                 <key>spriteSourceSize</key>
@@ -154,57 +154,57 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>crashed_zh_tw.png</key>
+            <key>crashed_zh_cn.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
-                <string>{-1,-3}</string>
+                <string>{0,-3}</string>
                 <key>spriteSize</key>
-                <string>{67,35}</string>
+                <string>{65,35}</string>
                 <key>spriteSourceSize</key>
                 <string>{127,47}</string>
                 <key>textureRect</key>
-                <string>{{218,318},{67,35}}</string>
+                <string>{{217,339},{65,35}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>pop_up_bet_amount_zh_tw.png</key>
+            <key>pop_up_bet_amount_zh_cn.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
                 <string>{0,1}</string>
                 <key>spriteSize</key>
-                <string>{74,21}</string>
+                <string>{76,21}</string>
                 <key>spriteSourceSize</key>
                 <string>{266,29}</string>
                 <key>textureRect</key>
-                <string>{{130,344},{74,21}}</string>
+                <string>{{232,188},{76,21}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
-            <key>text_auto_cashout_popup_zh_tw.png</key>
+            <key>text_auto_cashout_popup_zh_cn.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
                 <string>{0,1}</string>
                 <key>spriteSize</key>
-                <string>{76,20}</string>
+                <string>{74,20}</string>
                 <key>spriteSourceSize</key>
                 <string>{292,30}</string>
                 <key>textureRect</key>
-                <string>{{47,387},{76,20}}</string>
+                <string>{{48,406},{74,20}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>text_auto_cashout_zh_tw.png</key>
+            <key>text_auto_cashout_zh_cn.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
-                <string>{0,2}</string>
+                <string>{0,1}</string>
                 <key>spriteSize</key>
                 <string>{92,40}</string>
                 <key>spriteSourceSize</key>
@@ -214,22 +214,22 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>text_auto_play_zh_tw.png</key>
+            <key>text_auto_play_zh_cn.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
-                <string>{0,1}</string>
+                <string>{1,1}</string>
                 <key>spriteSize</key>
-                <string>{72,20}</string>
+                <string>{73,20}</string>
                 <key>spriteSourceSize</key>
-                <string>{308,24}</string>
+                <string>{291,24}</string>
                 <key>textureRect</key>
-                <string>{{50,465},{72,20}}</string>
+                <string>{{70,406},{73,20}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
-            <key>text_bet_accepted_zh_tw.png</key>
+            <key>text_bet_accepted_zh_cn.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -240,11 +240,11 @@
                 <key>spriteSourceSize</key>
                 <string>{307,55}</string>
                 <key>textureRect</key>
-                <string>{{3,279},{125,35}}</string>
+                <string>{{3,242},{125,35}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>text_bet_is_accepted_zh_tw.png</key>
+            <key>text_bet_is_accepted_zh_cn.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -259,7 +259,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>text_betamount_zh_tw.png</key>
+            <key>text_betamount_zh_cn.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -270,26 +270,26 @@
                 <key>spriteSourceSize</key>
                 <string>{86,58}</string>
                 <key>textureRect</key>
-                <string>{{130,302},{86,40}}</string>
+                <string>{{129,302},{86,40}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>text_cashout_zh_tw.png</key>
+            <key>text_cashout_zh_cn.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
                 <string>{-30,0}</string>
                 <key>spriteSize</key>
-                <string>{81,42}</string>
+                <string>{79,42}</string>
                 <key>spriteSourceSize</key>
                 <string>{183,66}</string>
                 <key>textureRect</key>
-                <string>{{3,387},{81,42}}</string>
+                <string>{{48,316},{79,42}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
-            <key>text_clear_zh_tw.png</key>
+            <key>text_clear_zh_cn.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -300,16 +300,16 @@
                 <key>spriteSourceSize</key>
                 <string>{87,24}</string>
                 <key>textureRect</key>
-                <string>{{3,470},{39,22}}</string>
+                <string>{{3,487},{39,22}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
-            <key>text_comfirm_zh_tw.png</key>
+            <key>text_comfirm_zh_cn.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
-                <string>{-1,0}</string>
+                <string>{0,0}</string>
                 <key>spriteSize</key>
                 <string>{43,24}</string>
                 <key>spriteSourceSize</key>
@@ -319,52 +319,52 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>text_copy_zh_tw.png</key>
+            <key>text_copy_zh_cn.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{41,24}</string>
+                <string>{39,24}</string>
                 <key>spriteSourceSize</key>
                 <string>{77,24}</string>
                 <key>textureRect</key>
-                <string>{{3,344},{41,24}}</string>
+                <string>{{47,360},{39,24}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>text_currentmultiplier_zh_tw.png</key>
+            <key>text_currentmultiplier_zh_cn.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
-                <string>{-1,1}</string>
+                <string>{0,1}</string>
                 <key>spriteSize</key>
-                <string>{126,35}</string>
+                <string>{124,35}</string>
                 <key>spriteSourceSize</key>
                 <string>{248,55}</string>
                 <key>textureRect</key>
-                <string>{{3,242},{126,35}}</string>
+                <string>{{3,279},{124,35}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>text_md5_key_zh_tw.png</key>
+            <key>text_md5_key_zh_cn.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
                 <string>{0,-3}</string>
                 <key>spriteSize</key>
-                <string>{99,18}</string>
+                <string>{98,18}</string>
                 <key>spriteSourceSize</key>
-                <string>{99,24}</string>
+                <string>{100,24}</string>
                 <key>textureRect</key>
-                <string>{{153,32},{99,18}}</string>
+                <string>{{153,32},{98,18}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>text_multiplier_zh_tw.png</key>
+            <key>text_multiplier_zh_cn.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -375,11 +375,11 @@
                 <key>spriteSourceSize</key>
                 <string>{38,27}</string>
                 <key>textureRect</key>
-                <string>{{27,470},{38,21}}</string>
+                <string>{{3,368},{38,21}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
-            <key>text_number_of_auto_zh_tw.png</key>
+            <key>text_number_of_auto_zh_cn.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -394,22 +394,22 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>text_result_zh_tw.png</key>
+            <key>text_result_zh_cn.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
                 <string>{0,-2}</string>
                 <key>spriteSize</key>
-                <string>{34,18}</string>
+                <string>{33,18}</string>
                 <key>spriteSourceSize</key>
-                <string>{34,22}</string>
+                <string>{33,22}</string>
                 <key>textureRect</key>
-                <string>{{110,316},{34,18}}</string>
+                <string>{{220,266},{33,18}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
-            <key>text_start_zh_tw.png</key>
+            <key>text_start_zh_cn.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -420,16 +420,16 @@
                 <key>spriteSourceSize</key>
                 <string>{132,30}</string>
                 <key>textureRect</key>
-                <string>{{48,316},{42,24}}</string>
+                <string>{{3,342},{42,24}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>text_starting1_zh_tw.png</key>
+            <key>text_starting1_zh_cn.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
-                <string>{2,-4}</string>
+                <string>{1,-4}</string>
                 <key>spriteSize</key>
                 <string>{148,62}</string>
                 <key>spriteSourceSize</key>
@@ -439,12 +439,12 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>text_starting_zh_tw.png</key>
+            <key>text_starting_zh_cn.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
                 <key>spriteOffset</key>
-                <string>{2,-4}</string>
+                <string>{1,-4}</string>
                 <key>spriteSize</key>
                 <string>{136,48}</string>
                 <key>spriteSourceSize</key>
@@ -454,7 +454,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>text_total_win_zh_tw.png</key>
+            <key>text_total_win_zh_cn.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -465,9 +465,9 @@
                 <key>spriteSourceSize</key>
                 <string>{227,73}</string>
                 <key>textureRect</key>
-                <string>{{29,342},{79,43}}</string>
+                <string>{{3,406},{79,43}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
         </dict>
         <key>metadata</key>
@@ -479,13 +479,13 @@
             <key>premultiplyAlpha</key>
             <false/>
             <key>realTextureFileName</key>
-            <string>atlas-zh_tw.webp</string>
+            <string>atlas_zh_cn.webp</string>
             <key>size</key>
             <string>{256,512}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:87d0379e56fe1107584f1d2ec2563185:a6ce75cc18e9ec30a9e8c89120d3acaa:a8d3ceb4e8b3211443be11f77dd988a0$</string>
+            <string>$TexturePacker:SmartUpdate:d5f0ebc1c7cb35d4f2e35df88e5e6b5e:aa057021c518e29963e0b78d44a61020:af1519685e30e4ade717e62e38ce99fe$</string>
             <key>textureFileName</key>
-            <string>atlas-zh_tw.webp</string>
+            <string>atlas_zh_cn.webp</string>
         </dict>
     </dict>
 </plist>
