@@ -8,3 +8,7 @@ variables:
   COCOS_PROJECT_DIR: src
   INTEGRATION_IMAGE: pentagon/l1_spaceflight_client
   INTEGRATION_WS_PATH: spaceflight
+
+.build_cocos_creator_script: &build_cocos_creator_script
+  tags:
+  - cocos-test
