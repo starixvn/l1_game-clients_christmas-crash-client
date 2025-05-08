@@ -3,10 +3,13 @@ import { LogStore } from "db://shared-components/game/scripts/stores/log-store";
 
 import { sharedContainer } from "../../scripts/shared-container";
 
+const GAME_NAME = "ChristmasCrash";
+
 export const settings = {
     id: 106,
-    name: "ChristmasCrash",
-    namespaces: ["ChristmasCrash", "Spaceflight"],
+    name: GAME_NAME,
+    observerNamespace: GAME_NAME,
+    namespaces: [GAME_NAME, "Spaceflight"],
     durations: {
         wholeRound: 14,
         lockingBet: 3,
