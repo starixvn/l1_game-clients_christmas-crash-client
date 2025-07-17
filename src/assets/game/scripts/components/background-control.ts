@@ -1,5 +1,5 @@
 import gc from "@sg/game-client-base";
-import { Node, Tween, UITransform, Vec3, _decorator, tween, v3, log, Color, screen, Vec2, v2, CCInteger } from "cc";
+import { Node, Tween, UITransform, Vec3, _decorator, tween, v3, CCInteger } from "cc";
 import Observer from "observer";
 const { Settlements, GameCrash } = gc;
 
@@ -107,7 +107,9 @@ export class BackgroundControl extends ObserverComponent {
                 .call(() => {
                     resetNode(this.nodeContainerBackground, v3(0, 0, 0), v3(1, 1, 1));
                     this.backgroundNodes.forEach((node, index) => {
-                        if (!node) return;
+                        if (!node) {
+                            return;
+                        }
                         const xPos = this.currentBgWidth * index;
                         const previousNode = this.backgroundNodes[index - 1];
                         const scaleX = previousNode && previousNode.scale.x === 1 ? -1 : 1; // Middle node is flipped

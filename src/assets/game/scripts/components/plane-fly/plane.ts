@@ -24,7 +24,7 @@ export class Plane extends Component {
 
     protected skePlane: sp.Skeleton = null;
 
-    private positionTween: Tween<Node>;
+    private readonly positionTween: Tween<Node>;
     private planeCrashTween: Tween<Node>;
     readonly durationPlanTakeOff = 1.6;
     readonly durationCrash = 0.4;
