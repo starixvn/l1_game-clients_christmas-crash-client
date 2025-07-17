@@ -71,7 +71,7 @@ export class BackgroundControl extends ObserverComponent {
             const leftmostNode = nodes[0];
             const rightmostNode = nodes[nodes.length - 1];
             const scaleXMiddle = rightmostNode?.scale?.x;
-            let scaleNewX = -scaleXMiddle;
+            const scaleNewX = -scaleXMiddle;
 
             // Move leftmost node to the right of the rightmost node
             const newX = rightmostNode.position.x + this.currentBgWidth;
