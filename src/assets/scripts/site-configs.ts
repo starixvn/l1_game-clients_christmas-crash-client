@@ -23,7 +23,6 @@ const defaultConfig: gc.Configs.SiteConfigs = {
         proxyPath: "christmascrash",
         route: "christmascrash",
     },
-    mainObserverNamespace: "ChristmasCrash",
     tolgeeUrl: "",
     storagePrefixKey: "christmascrash",
 };
