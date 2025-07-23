@@ -11,7 +11,7 @@ export const languages = {
         "bet_choice_even": "偶数",
         "bet_choice_home": "ホーム",
         "bet_choice_odd": "奇数",
-        "bet_choice_over": "オーバー",
+        "bet_choice_over": "終了",
         "betChoice_shorten": "ベット選択",
         "bet_choice_under": "アンダー",
         "bet_detail": "ベット詳細",
@@ -47,7 +47,7 @@ export const languages = {
         "hand_already_splitted": "このハンドは既にスプリットされています。",
         "hand_is_stand": "ハンド終了",
         "hand_not_active": "非アクティブハンド",
-        "hot": "激アツ",
+        "hot": "ホット",
         "invalid_bet": "無効なベットです",
         "invalid_deal_hands": "ハンド数が無効です",
         "invalid_free_spin": "無効なフリースピン",
@@ -229,7 +229,7 @@ export const languages = {
     "Spaceflight": {
         "auto_cashout": "自動キャッシュアウト",
         "auto_play": "オートプレイ",
-        "bet_accepted": "ベットが確定しました",
+        "bet_accepted": "ベット受付",
         "bet_amount": "ベット額",
         "cancel_bet": "（ベットをキャンセル）",
         "cashed": "払い戻し済み",
@@ -258,7 +258,7 @@ export const languages = {
         "stop_auto_play": "自動プレイ停止",
         "total_cashout_amount_reach_max": "キャッシュアウトの合計金額が最大勝利額に達しました。",
         "waiting": "待機中...",
-        "you_reach_max_win": "最大配当額に到達しました"
+        "you_reach_max_win": "最大勝利額に到達しました"
     },
     "ChristmasCrash": {
         "game_icon_name": "クリスマスX",
