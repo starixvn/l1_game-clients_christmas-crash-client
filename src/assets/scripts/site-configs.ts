@@ -13,8 +13,8 @@ const defaultConfig: gc.Configs.SiteConfigs = {
         localhost: "lumigame.com",
     },
     ssl: true,
-    subDomain: "l1-proxy1",
-    env: "LOCAL1",
+    subDomain: "l2-proxy",
+    env: "LOCAL",
     subGuideDomain: "l1-guide-1",
     SGConnectSubDomain: "connectsite",
     enableMsgpackParserAllGames: false,
@@ -23,7 +23,6 @@ const defaultConfig: gc.Configs.SiteConfigs = {
         proxyPath: "christmascrash",
         route: "christmascrash",
     },
-    mainObserverNamespace: "ChristmasCrash",
     tolgeeUrl: "",
     storagePrefixKey: "christmascrash",
 };
