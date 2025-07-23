@@ -16,6 +16,7 @@ if __name__ == '__main__':
         "./images/atlas-zh_cn",
         "./images/atlas-zh_tw",
         "./images/atlas-th",
+        "./images/atlas-ja",
     ]
 
     # Pack.
@@ -24,7 +25,7 @@ if __name__ == '__main__':
         'pack.js'
     )
 
-    outputPath = os.path.join(project_dir, '..\\', 'src\\assets\\resources\\i18n-atlas')
+    outputPath = os.path.join(project_dir, '..\\', 'src\\assets\\resources\\i18n-images')
 
     # Xử lý từng thư mục
     for images_dir in image_dirs:
