@@ -9,7 +9,7 @@
                     "options": {
                         "params": ["--texture-format", "webp"],
                         "sheet_extension": "webp",
-                        "output_path": ["atlas-zh_tw"]
+                        "output_path": ["atlas_zh_tw"]
                     }
                 }
             ]
