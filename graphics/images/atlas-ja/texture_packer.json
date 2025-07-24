@@ -9,7 +9,7 @@
                     "options": {
                         "params": ["--texture-format", "webp"],
                         "sheet_extension": "webp",
-                        "output_path": ["altas-ja"]
+                        "output_path": ["atlas_ja"]
                     }
                 }
             ]

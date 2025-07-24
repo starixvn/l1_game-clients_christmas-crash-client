@@ -479,13 +479,13 @@
             <key>premultiplyAlpha</key>
             <false/>
             <key>realTextureFileName</key>
-            <string>altas-ja.webp</string>
+            <string>atlas_ja.webp</string>
             <key>size</key>
             <string>{512,512}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:0e963980d3c51996aa1f124513d9f507:0c3d8f6ed67cff78aac59d5f4670a2b7:42455625906ef242bb17e522ece32000$</string>
+            <string>$TexturePacker:SmartUpdate:a202b3218bb68a7442855f005f3ca004:0c3d8f6ed67cff78aac59d5f4670a2b7:e7bfb4ce58105851f514e2ca2db500a4$</string>
             <key>textureFileName</key>
-            <string>altas-ja.webp</string>
+            <string>atlas_ja.webp</string>
         </dict>
     </dict>
 </plist>
