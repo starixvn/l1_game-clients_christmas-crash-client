@@ -17,6 +17,7 @@ if __name__ == '__main__':
         "./images/atlas-zh_tw",
         "./images/atlas-th",
         "./images/atlas-ja",
+        "./images/atlas-es",
     ]
 
     # Pack.
