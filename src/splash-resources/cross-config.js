@@ -1,3 +1,3 @@
 window.crossConfig = {
-    storagePrefixKey: "christmascrash",
+    storagePrefixKey: "christmas-crash",
 };

@@ -24,7 +24,7 @@ const defaultConfig: gc.Configs.SiteConfigs = {
         route: GAME_NAME.toLowerCase(),
     },
     tolgeeUrl: "",
-    storagePrefixKey: GAME_NAME.toLowerCase(),
+    storagePrefixKey: "christmas-crash",
     sentry: {
         dsn: "https://9c999f9b51e3b4543cb160b946b5bcbe@sentry-k8s.lumigame.com/30",
         browserUrl: "https://browser.sentry-cdn.com/10.5.0/bundle.min.js",
