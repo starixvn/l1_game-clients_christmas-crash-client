@@ -1,6 +1,6 @@
 
 
-const GAME_NAME = "ChristmasCrash";
+export const GAME_NAME = "ChristmasCrash";
 
 export const settings = {
     id: 106,

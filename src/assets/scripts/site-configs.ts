@@ -1,5 +1,5 @@
 import gc from "@sg/game-client-base";
-
+import { GAME_NAME } from "../game/scripts/game-settings";
 declare global {
     interface Window {
         envConfig: gc.Configs.SiteConfigs;
@@ -20,11 +20,11 @@ const defaultConfig: gc.Configs.SiteConfigs = {
     enableMsgpackParserAllGames: false,
     enableMsgpackParserOnNotification: false,
     websocket: {
-        proxyPath: "christmascrash",
-        route: "christmascrash",
+        proxyPath: GAME_NAME.toLowerCase(),
+        route: GAME_NAME.toLowerCase(),
     },
     tolgeeUrl: "",
-    storagePrefixKey: "christmascrash",
+    storagePrefixKey: GAME_NAME.toLowerCase(),
     sentry: {
         dsn: "https://9c999f9b51e3b4543cb160b946b5bcbe@sentry-k8s.lumigame.com/30",
         browserUrl: "https://browser.sentry-cdn.com/10.5.0/bundle.min.js",
